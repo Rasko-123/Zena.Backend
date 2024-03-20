@@ -60,7 +60,7 @@ express.get("/fortnite/api/matchmaking/session/:session_id", async (req, res) =>
         },
         "publicPlayers": [],
         "privatePlayers": [],
-        "totalPlayers": 45,
+        "totalPlayers": 100,
         "allowJoinInProgress": false,
         "shouldAdvertise": false,
         "isDedicated": false,
