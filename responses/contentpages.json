@@ -9,8 +9,9 @@
       "_type": "CommonUI Simple Message",
       "message": {
         "_type": "CommonUI Simple Message Base",
-        "title": "LawinServer",
-        "body": "Join our discord: https://discord.gg/KJ8UaHZ\nYouTube: Lawin\nTwitter: @lawin_010"
+        "title": "Zena Beta",
+        "body": "This is still in Beta so it has Bugs please report eveey problem to our team and have 
+        fun playing, your Zena Team"
       }
     },
     "_activeDate": "2017-07-19T13:14:04.490Z",
@@ -1392,8 +1393,9 @@
         {
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
-          "title": "LawinServer",
-          "body": "Server created by Lawin (Twitter: @lawin_010)\nDiscord: https://discord.gg/KJ8UaHZ",
+          "title": "Zena Beta",
+          "body": "This is still in Beta so it has Bugs please report eveey problem to our team and have 
+        fun playing, your Zena Team",
           "spotlight": true
         }
       ]
@@ -1417,8 +1419,9 @@
           "gamemodes": [],
           "hidden": false,
           "_type": "CommonUI Emergency Notice Base",
-          "title": "LawinServer",
-          "body": "Server created by Lawin (Twitter: @lawin_010)\nDiscord: https://discord.gg/KJ8UaHZ"
+          "title": "Zena Beta",
+          "body": "This is still in Beta so it has Bugs please report eveey problem to our team and have 
+        fun playing, your Zena Team"
         }
       ]
     },
@@ -6126,22 +6129,22 @@
           "tileImage": "https://fortnite-public-service-prod11.ol.epicgames.com/images/motd-s.png",
           "videoMute": false,
           "hidden": false,
-          "tabTitleOverride": "LawinServer",
+          "tabTitleOverride": "Zena Beta",
           "_type": "CommonUI Simple Message MOTD",
           "title": {
-            "ar": "مرحبًا بك في LawinServer!",
-            "en": "Welcome to LawinServer!",
-            "de": "Willkommen bei LawinServer!",
-            "es": "¡Bienvenidos a LawinServer!",
-            "es-419": "¡Bienvenidos a LawinServer!",
-            "fr": "Bienvenue sur LawinServer !",
-            "it": "Benvenuto in LawinServer!",
-            "ja": "LawinServerへようこそ！",
-            "ko": "LawinServer에 오신 것을 환영합니다!",
-            "pl": "Witaj w LawinServerze!",
-            "pt-BR": "Bem-vindo ao LawinServer!",
-            "ru": "Добро пожаловать в LawinServer!",
-            "tr": "LavinServer'a Hoş Geldiniz!"
+            "ar": "مرحبًا بك في Zena Beta!",
+            "en": "Welcome to Zena Beta!",
+            "de": "Willkommen bei Zena Beta!",
+            "es": "¡Bienvenidos a Zena Beta!",
+            "es-419": "¡Bienvenidos a Zena Beta!",
+            "fr": "Bienvenue sur Zena Beta !",
+            "it": "Benvenuto in Zena Beta!",
+            "ja": "Zena Betaへようこそ！",
+            "ko": "Zena Beta에 오신 것을 환영합니다!",
+            "pl": "Witaj w Zena Beta!",
+            "pt-BR": "Bem-vindo ao Zen beta!",
+            "ru": "Добро пожаловать в Zena Beta!",
+            "tr": "Zena Beta Hoş Geldiniz!"
           },
           "body": {
             "ar": "استمتع بتجربة لعب استثنائية!",
@@ -6163,7 +6166,7 @@
           "videoStreamingEnabled": false,
           "sortingPriority": 90,
           "websiteButtonText": "Discord",
-          "websiteURL": "https://discord.gg/KJ8UaHZ",
+          "websiteURL": "https://discord.gg/HnJ6pH8N8J",
           "id": "61fb3dd8-f23d-45cc-9058-058ab223ba5c",
           "videoAutoplay": false,
           "videoFullscreen": false,
@@ -6177,7 +6180,7 @@
           "_type": "CommonUI Simple Message Base",
           "adspace": "DISCORD!",
           "title": "Join our discord server!",
-          "body": "https://discord.gg/KJ8UaHZ",
+          "body": "https://discord.gg/HnJ6pH8N8J",
           "spotlight": false
         },
         {
@@ -6185,8 +6188,8 @@
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
           "adspace": "ENJOY!",
-          "title": "LawinServer",
-          "body": "Enjoy LawinServer!",
+          "title": "Zena Bet",
+          "body": "Enjoy Project Zena!",
           "spotlight": false
         }
       ]
@@ -6209,22 +6212,22 @@
           "tileImage": "https://fortnite-public-service-prod11.ol.epicgames.com/images/motd-s.png",
           "videoMute": false,
           "hidden": false,
-          "tabTitleOverride": "LawinServer",
+          "tabTitleOverride": "Zena Beta",
           "_type": "CommonUI Simple Message MOTD",
           "title": {
-            "ar": "مرحبًا بك في LawinServer!",
-            "en": "Welcome to LawinServer!",
-            "de": "Willkommen bei LawinServer!",
-            "es": "¡Bienvenidos a LawinServer!",
-            "es-419": "¡Bienvenidos a LawinServer!",
-            "fr": "Bienvenue sur LawinServer !",
-            "it": "Benvenuto in LawinServer!",
-            "ja": "LawinServerへようこそ！",
-            "ko": "LawinServer에 오신 것을 환영합니다!",
-            "pl": "Witaj w LawinServerze!",
-            "pt-BR": "Bem-vindo ao LawinServer!",
-            "ru": "Добро пожаловать в LawinServer!",
-            "tr": "LavinServer'a Hoş Geldiniz!"
+            "ar": "مرحبًا بك في Zena Beta!",
+            "en": "Welcome to Zena Beta!",
+            "de": "Willkommen bei Zena Bet!",
+            "es": "¡Bienvenidos a Zena Beta!",
+            "es-419": "¡Bienvenidos a Zena Beta!",
+            "fr": "Bienvenue sur Zena Beta !",
+            "it": "Benvenuto in Zena Beta!",
+            "ja": "Zena Betaへようこそ！",
+            "ko": "Zena Beta에 오신 것을 환영합니다!",
+            "pl": "Witaj w Zena Beta!",
+            "pt-BR": "Bem-vindo ao Zena Beta!",
+            "ru": "Добро пожаловать в Zena Beta!",
+            "tr": "Zena Beta'a Hoş Geldiniz!"
           },
           "body": {
             "ar": "استمتع بتجربة لعب استثنائية!",
@@ -6246,7 +6249,7 @@
           "videoStreamingEnabled": false,
           "sortingPriority": 90,
           "websiteButtonText": "Discord",
-          "websiteURL": "https://discord.gg/KJ8UaHZ",
+          "websiteURL": "https://discord.gg/HnJ6pH8N8J",
           "id": "61fb3dd8-f23d-45cc-9058-058ab223ba5c",
           "videoAutoplay": false,
           "videoFullscreen": false,
@@ -6296,7 +6299,7 @@
           "_type": "CommonUI Simple Message Base",
           "adspace": "DISCORD!",
           "title": "Join our discord server!",
-          "body": "https://discord.gg/KJ8UaHZ",
+          "body": "https://discord.gg/HnJ6pH8N8J",
           "spotlight": false
         },
         {
@@ -6304,8 +6307,8 @@
           "hidden": false,
           "_type": "CommonUI Simple Message Base",
           "adspace": "ENJOY!",
-          "title": "LawinServer",
-          "body": "Enjoy LawinServer!",
+          "title": "Zena Beta",
+          "body": "Enjoy Project Zena!",
           "spotlight": false
         }
       ]
@@ -6338,7 +6341,7 @@
           "bHidden": false,
           "sectionId": "Featured",
           "bShowTimer": true,
-          "sectionDisplayName": "LawinServer Item Shop",
+          "sectionDisplayName": "Zena Item Shop",
           "bShowIneligibleOffers": true
         }
       ]
